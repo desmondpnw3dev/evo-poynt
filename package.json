@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/desmondpnw3dev/evo-poynt.git"
+    "url": "git+https://github.com/evosus/evo-poynt.git"
   },
   "keywords": [
     "Poynt"
@@ -25,7 +25,7 @@
   "author": "Charles Feng <c@poynt.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/desmondpnw3dev/evo-poynt/issues"
+    "url": "https://github.com/evosus/evo-poynt/issues"
   },
-  "homepage": "https://github.com/desmondpnw3dev/evo-poynt#readme"
+  "homepage": "https://github.com/evosus/evo-poynt#readme"
 }
